@@ -1,0 +1,5 @@
+BASE_URL = "https://qa-stellarburgers.education-services.ru"
+CREATE_USER = "/api/auth/register"
+UPDATE_AND_DELETE_USER = "/api/auth/user"
+LOGIN_USER = "/api/auth/login"
+CREATE_ORDER = "/api/orders"
