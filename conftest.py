@@ -5,7 +5,6 @@ from helpers import random_email
 from data import password, name
 
 
-
 @pytest.fixture
 def user_delete():
     creds = {}

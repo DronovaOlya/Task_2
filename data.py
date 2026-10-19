@@ -1,4 +1,3 @@
-
 password = "123456"
 name = "Ivan"
 
